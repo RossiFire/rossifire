@@ -1,5 +1,5 @@
-# 💫 About Me:
-Frontend Software Engineer, focused on Next.Js, React and Angular<br><br>Currently playing with GSAP, Framer Motion and everything about Motion Design.<br><br>I love building Efficient, robust and opinionated code<br>through my website randomui.dev.<br><br>What's next?<br>- Docker, since I got it's potential but I still have some lacks<br>- Improving non-code related activities, such as code analysis.<br>- Keeping up to date with latest technologies (I guess this one's gonna be there forever)
+# 🚀 About Me:
+Frontend Software Engineer, focused on Next.Js, React and Angular<br><br>Currently playing with GSAP, Framer Motion and everything about Motion Design.<br><br>I love building Efficient, robust and opinionated code<br>through my website [randomui.dev](https://www.randomui.dev/).<br><br>What's next?<br>- Docker, since I got it's potential but I still have some lacks<br>- Improving non-code related activities, such as code analysis.<br>- Keeping up to date with latest technologies (I guess this one's gonna be there forever)
 
 
 ## 🌐 Socials:
