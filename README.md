@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Daniele! <br><br>Not-so-serious Frontend Software Engineer, focused on Next.js, React and Angular. <br><br>You can checkout my website: danielerossino.com<br><br>Also, I love building efficient, robust and opinionated components<br>on randomui.dev.<br><br><br>
+Hey, I'm Daniele! <br><br>Not-so-serious Frontend Software Engineer, focused on Next.js, React and Angular. <br><br>You can checkout my website: [danielerossino.com](https://www.danielerossino.com)<br><br>Also, I love building efficient, robust and opinionated components<br>on [randomui.dev](https://www.randomui.dev).<br><br><br>
 
 
 ## 🌐 Socials:
